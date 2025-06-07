@@ -44,7 +44,7 @@ Built with simplicity in mind, it showcases how Python can be connected with a S
 - Error handling and user input validation
 - Organizing code into functions for reusability
 
----
+
 
 🚀 How to Run
 
@@ -53,5 +53,5 @@ Built with simplicity in mind, it showcases how Python can be connected with a S
 3. Setup SQL Server and run restaurant.sql to create tables
 4. Run the project:
    ```bash
-   made with love jessica
+  
    python main.py
